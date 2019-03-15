@@ -34,12 +34,13 @@ Using this endpoint, show a list of these items, with each row displaying at lea
 - `publication_date`
 - `multimedia` 
 
-Feel free to make any assumptions you want along the way or use any third party libraries as needed (just document them in a your pull request).
+Feel free to make any assumptions you want along the way or use any third party libraries as needed.
+Don't forget to document your work in a README.md file.
 
 ### General Instructions:
 - This isn't a visual design exercise. For example, if you set random background colors to clearly differentiate the views when debugging, pick Comic Sans or Papyrus, we won't hold that against you. Well, maybe a little bit if you use Comic Sans :)
 - This is also most of the code you'll be showing us – don't understimate the difficulty of the task, or the importance of this exercise in our process, and rush your PR. Put up your best professional game.
-- This isn't just about handling the happy path. Think slow network (or no network at all), supporting different device sizes, ease of build and run of the project. If we can't check out and click the run button in Android Studio, you're off to a bad start (we've had PRs without a graddle for instance).
+- This isn't just about handling the happy path. Think slow network (or no network at all), supporting different device sizes, ease of build and run of the project. If we can't check out and click the run button in Android Studio, you're off to a bad start (we've had submissions without a graddle file for instance).
 - "Surprise us by writing the most boring and unambiguous code possible". We are more interested in stability/maintainability of your code than in "show off" features. We'd much rather know how you'd handle errors hollistically, or dates and their timezones, than seeing how you'd implement parallax scrolling with sparkles and flames for instance.
 - Tests (unit or UI) are welcome, but not required.
 - Explanations on any choice you've made are welcome.

@@ -35,7 +35,9 @@ Using this endpoint, show a list of these items, with each row displaying at lea
 - `multimedia` 
 
 Feel free to make any assumptions you want along the way or use any third party libraries as needed.
-Don't forget to document your work in a README.md file.
+
+### Submission
+Simply bundle up your work in a zip file, and mail it back to the recruiter. Don't forget to document your work in a README.md file.
 
 ### General Instructions:
 - This isn't a visual design exercise. For example, if you set random background colors to clearly differentiate the views when debugging, pick Comic Sans or Papyrus, we won't hold that against you. Well, maybe a little bit if you use Comic Sans :)
